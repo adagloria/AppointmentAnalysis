@@ -7,7 +7,7 @@ Other packages used include Pandas, Numpy and Matplotlib.
 
 ## Project Motivation
 For this project, I was interestested in using the Kaggle NoShow Appointments Dataset to understand if:
-* there's a higher likelihood that men would show up for their appointment
+* there's a higher likelihood that men would show up for their appointment and the gender distribution of people who show up
 * the day of the week for the appointment influence whether or not the patient shows up
 * the type of illness play a major role in determining the target feature
 * people who receive SMS reminders show up
